@@ -1,1 +1,1 @@
-# Oscillation-Amplitude-and-Cortical-Synchronization-in-Neuronal-Networks
+# Oscillation Amplitude and Cortical Synchronization in Neuronal Networks
